@@ -1,16 +1,29 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**BuianovschiAlex/BuianovschiAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div >
+  <h1 align="center">Hi, I'm Buianovschi Alexandr </h1>
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+🌱 Frontend Developer from Moldova.
+<div>
+  <h3>📫 How to reach me:</h3>
+  <p>Gmail: <a href="shusan1191@gmail.com">@shusan1191@gmail.com</a></p>
+  <p>Telegram: <a href="t.me/Alexandr_Buianovschi">@Alexandr_Buianovschi</a></p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+ <img src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/6424c761a99e4d5a5dba0f726fd292a299dc8e695868dce735863ddd6ec753f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d5265616374"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/d36224ed8f4f70ad40fa095b43b2eecd985829323fe96b8e636c4a1a578a3f33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d68746d6c3526636f6c6f723d303030"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/3fc9d08092b63eec1d162a23ed00efaece7b45f0cbee6dfb22f7fc7c5b1b1742/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6373733326636f6c6f723d303030"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/d6d95a97c7a12b221ec18ec01d19b9ee92a42420784a0fb8144011c5a72794b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3030303f266c6f676f3d6e6f64652e6a73"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/ba7a2a33212941d5890200bfd8f418e26561a2b7d71383e6261829bc5cdfe260/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f266c6f676f3d476974"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/8d54368e90c38948f928f835a0984a7eaaac2788a34446560d21ebf449ec4724/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3030303f266c6f676f3d4c696e7578"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/0e2611d64293f3676d77ce51169403831b38612be97ade095abebd1350c1b12a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/f8c327f072df8c1be9a1b142e3cb834ef73050aa3468f494756fc42a61cc546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d3030303f266c6f676f3d4a657374"/>&nbsp;
+</div>
