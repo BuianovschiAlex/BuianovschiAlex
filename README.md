@@ -10,8 +10,8 @@
 🌱 Frontend Developer from Moldova.
 <div>
   <h3>📫 How to reach me:</h3>
-  <p>Gmail: <a href="shusan1191@gmail.com">shusan1191@gmail.com</a></p>
-  <p>Telegram: <a href="t.me/Alexandr_Buianovschi">@Alexandr_Buianovschi</a></p>
+  <p>Gmail: <a href="mailto:shusan1191@gmail.com">shusan1191@gmail.com</a></p>
+  <p>Telegram: <a href="https://t.me/Alexandr_Buianovschi">@Alexandr_Buianovschi</a></p>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
